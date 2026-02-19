@@ -42,12 +42,6 @@ Format flexibility saves scanned content in numerous file formats including PDF,
 
 ---
 
-<p align="center">
-  <img src="https://macx.ws/uploads/posts/2017-08/1503178651_vuescan_02.png" alt="VueScan Pro screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 VueScan Pro OSX excels for users requiring reliable scanning beyond manufacturer software. Universal compatibility supports thousands of scanner models extending hardware useful lifespans substantially maintaining scanner utility.
